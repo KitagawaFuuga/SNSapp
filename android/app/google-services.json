@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269481513714",
+    "project_id": "snsmodoki",
+    "storage_bucket": "snsmodoki.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269481513714:android:b8e08082f4e1423fe9b66b",
+        "android_client_info": {
+          "package_name": "com.example.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269481513714-hd1m71j6henqn48ap0k53siod22ovq8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrd8rk3IBJFA2FCnF6Bdq_OPifWIHneJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269481513714-hd1m71j6henqn48ap0k53siod22ovq8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
